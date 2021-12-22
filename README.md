@@ -1,4 +1,4 @@
-Hello! My name is Michael Shipley, aka. dotexe. This is my GitHub profile which I use to share code to my programs, and create bug reports and feature requests to programs I use.
+Hello! My name is Michael Shipley, aka. dotexe. This is my GitHub profile which I use to share code to my programs, and create bug reports and feature requests for programs I use.
 
 You can find me at my website: [www.dotexe.cf](https://www.dotexe.cf), or by sending an E-Mail to: [business@dotexe.cf](mailto:business@dotexe.cf)
 
