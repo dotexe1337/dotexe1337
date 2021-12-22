@@ -1,7 +1,7 @@
 ### Hello!
 My name is Michael Shipley, aka. dotexe. This is my GitHub profile which I use to share code to my programs, and create bug reports and feature requests to programs I use.
 
-You can find me at my website: [www.dotexe.cf]{https://www.dotexe.cf}
+You can find me at my website: [www.dotexe.cf](https://www.dotexe.cf)
 
 <!--
 **dotexe1337/dotexe1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
